@@ -1,3 +1,18 @@
+h1,
+p {
+  text-align: center;
+  color: aliceblue;
+  padding: 20px;
+}
+div {
+  text-align: center;
+}
+
 body {
-  background: yellow;
+  background: grey;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
 }
